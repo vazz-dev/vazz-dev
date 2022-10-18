@@ -4,7 +4,7 @@ Knowledge base! 👋
 
 #### Soft SKills
 #### Hard Skills
-#### [Mulesoft](/mulesoft.md)
+#### [Mulesoft](/Mulesoft.md)
 #### Pass interview notes
 
 
